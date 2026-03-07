@@ -1,0 +1,1 @@
+{"event_time": "2026-03-06T10:17:45Z","robot_id": "robot_03","session_id": "session_1002","scenario": "warehouse_navigation","state": {"position": {"x": 15.1, "y": 6.4},"velocity": 0.35,"battery_level": 63},"action": {"command": "turn_left","angle": 90},"outcome": {"collision": false,"task_success": true}}
