@@ -1,0 +1,1 @@
+{"event_time": "2026-03-06T10:18:30Z", "robot_id": "robot_01", "session_id": "session_1002", "scenario": "obstacle_avoidance", "state": {"position": {"x": 10.8, "y": 5.2}, "velocity": 0.2, "battery_level": 82}, "action": {"command": "avoid_obstacle", "direction": "right"}, "outcome": {"collision": false, "task_success": true}}
